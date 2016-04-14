@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
- <h1> This is a test page. </h1>
+ <h1> This is a Movie page. </h1>
  
  	<table border=1>
  	<thead>
